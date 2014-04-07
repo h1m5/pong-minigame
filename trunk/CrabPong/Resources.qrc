@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/Ball.mtl</file>
+        <file>content/Ball.obj</file>
+        <file>content/charset</file>
+        <file>content/crab.md2</file>
+        <file>content/crab1.bmp</file>
+        <file>content/crab2.bmp</file>
+        <file>content/crab3.bmp</file>
+        <file>content/crab4.bmp</file>
+        <file>content/sand.bmp</file>
+        <file>content/vtr.bmp</file>
+        <file>content/water.bmp</file>
+    </qresource>
+</RCC>
